@@ -1,0 +1,9 @@
+.form-select:hover {
+    cursor: pointer;
+}
+
+textarea {
+    resize: none;
+    transition: "width 0.3s, height 0.3s, left 0.3s";
+    box-sizing: border-box;
+}
